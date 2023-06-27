@@ -83,10 +83,8 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation test</a>
-                    <a href="https://laracasts.com">Laracasts test</a>
-                    <a href="https://laravel-news.com">News 6 works</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://laravel.com/docs">You need to log in to start using the app</a>
+                   
                 </div>
             </div>
         </div>
