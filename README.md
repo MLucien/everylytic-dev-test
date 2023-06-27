@@ -1,4 +1,9 @@
 # Everlytic Developer Test
+## Running
+Run with docker build -t laravel-app . 
+or
+Run with docker-compose up --build (recommended)
+ 
 ## Overview
 Welcome to the Everlytic developer test. This test contains 2 required tasks. The first task contains the laravel 5.5 framework 
 where you are required to implement a simple user listing as described below. The second task is more of an assessment that you need to complete

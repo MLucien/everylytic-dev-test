@@ -79,6 +79,12 @@
 <!-- End Add User Modal -->
 
 <!-- Add footer -->
-@include('layouts.footer')
+<footer class="footer" style="background-color: black;">
+  <div class="container text-center">
+    <!-- Footer content -->
+    <p>© 2023 User Listing App. All rights reserved.</p>
+  </div>
+</footer>
+
 
 @endsection
